@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://totid.github.io/posts/</loc>
     <lastmod>2019-08-16T12:40:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/2019-08-16_conoscenza/</loc>
+    <loc>https://totid.github.io/posts/2019-08-16_conoscenza/</loc>
     <lastmod>2019-08-16T12:40:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-08-16T12:40:38+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://totid.github.io/</loc>
     <lastmod>2019-08-16T12:40:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/quotes/</loc>
+    <loc>https://totid.github.io/tags/</loc>
+    <lastmod>2019-08-16T12:40:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://totid.github.io/tags/quotes/</loc>
     <lastmod>2019-08-16T12:40:38+02:00</lastmod>
     <priority>0</priority>
   </url>

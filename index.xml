@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random thoughts worth to share...maybe</title>
-    <link>http://example.org/</link>
+    <link>https://totid.github.io/</link>
     <description>Recent content on Random thoughts worth to share...maybe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;WTF</copyright>
     <lastBuildDate>Fri, 16 Aug 2019 12:40:38 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://totid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conoscenza</title>
-      <link>http://example.org/posts/2019-08-16_conoscenza/</link>
+      <link>https://totid.github.io/posts/2019-08-16_conoscenza/</link>
       <pubDate>Fri, 16 Aug 2019 12:40:38 +0200</pubDate>
       
-      <guid>http://example.org/posts/2019-08-16_conoscenza/</guid>
+      <guid>https://totid.github.io/posts/2019-08-16_conoscenza/</guid>
       <description>&amp;ldquo;La conoscenza è quello che effettivamente potete vendere e se ce l&amp;rsquo;avete nessuno vi può rompere il cazzo&amp;rdquo;
 &amp;ndash; Barbascura X
  Perentorio nella sua semplicità, che altro aggiungere? :)</description>
