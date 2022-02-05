@@ -1,22 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Hello Friend NG</title>
-        <link>localhost/posts/</link>
-        <description>Recent content in Posts on Hello Friend NG</description>
+        <title>Posts on Salvatore D. D&#39;Amico</title>
+        <link>https://totid.github.io/posts/</link>
+        <description>Recent content in Posts on Salvatore D. D&#39;Amico</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sat, 05 Feb 2022 16:01:58 +0100</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://totid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>My First Post</title>
-            <link>localhost/posts/my-first-post/</link>
+            <link>https://totid.github.io/posts/2022_02_05_my-first-post/</link>
             <pubDate>Sat, 05 Feb 2022 16:01:58 +0100</pubDate>
             
-            <guid>localhost/posts/my-first-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>https://totid.github.io/posts/2022_02_05_my-first-post/</guid>
+            <description>MVP Following one of the agile principles of having an MVP, I decided to setup this website using Hugo, github pages and github actions with the minimal configuration required, only the essential needed. I&amp;rsquo;ll do the modifications as I progress in learning.</description>
+            <content type="html"><![CDATA[<h2 id="mvp">MVP</h2>
+<p>Following one of the agile principles of having an MVP, I decided to setup this website using Hugo, github pages and github actions with the minimal configuration required, only the essential needed. I&rsquo;ll do the modifications as I progress in learning.</p>
+]]></content>
         </item>
         
     </channel>
